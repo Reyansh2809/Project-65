@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+h1{
+    font-size:100px;
+    font-style: italic;
+   font-family: sans-serif;
+color: darkorchid;
+}
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+background-color: darkorchid;
+}
+
+#myCarousel img
+{
+    height: 350px;
+       }
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
